@@ -12,7 +12,7 @@ A firefox theme based on [Gruvbox](https://github.com/morhetz/gruvbox "Gruvbox")
   ```
   git clone https://github.com/avronr/gruvboxar.git
   ```
-⋅⋅⋅ Open the theme.xpi file with firefox.
+⋅⋅⋅Open the theme.xpi file with firefox.
 
 ### How to contribute
 - Clone the repo.
