@@ -9,9 +9,9 @@ A firefox theme based on [Gruvbox](https://github.com/morhetz/gruvbox "Gruvbox")
 ### How to install
 - Official page: [Link](https://addons.mozilla.org/en-US/firefox/addon/gruvboxar/)
 - Clone this repo
-  '''
+  ```
   git clone https://github.com/avronr/gruvboxar.git
-  '''
+  ```
 ⋅⋅⋅ Open the theme.xpi file with firefox.
 
 ### How to contribute
