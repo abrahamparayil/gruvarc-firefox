@@ -1,5 +1,5 @@
 
-### GruvboxAR
+### Gruvarc Firefox Theme
 
 ![Imgur](https://i.imgur.com/lbiUgK8.png)
 
