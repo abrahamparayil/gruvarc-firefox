@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "GruvboxAR",
+  "name": "Gruvarc Firefox",
   "theme": {
     "images": {
       "additional_backgrounds": [
-        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+        "images/bg-016-af8c49de75012ca2c007f953ff2e4499.svg"
       ]
     },
     "properties": {
@@ -17,16 +17,16 @@
       ]
     },
     "colors": {
-      "toolbar": "rgb(33, 33, 33)",
-      "toolbar_text": "rgb(238, 255, 255)",
-      "accentcolor": "rgb(48, 48, 48)",
-      "textcolor": "rgb(255, 255, 255)",
-      "toolbar_field": "rgb(48, 48, 48)",
-      "toolbar_field_text": "rgb(255, 255, 255)",
-      "tab_line": "rgb(240, 113, 120)",
-      "popup": "rgb(33, 33, 33)",
-      "popup_text": "rgb(255, 255, 255)",
-      "tab_loading": "rgb(240, 113, 120)"
+      "toolbar": "rgb(40, 40, 40)",
+      "toolbar_text": "rgb(251, 241, 199)",
+      "frame": "rgb(29, 32, 33)",
+      "tab_background_text": "rgb(251, 241, 199)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(29, 32, 33)",
+      "tab_line": "rgb(245, 75, 41)",
+      "popup": "rgb(40, 40, 40)",
+      "popup_text": "rgb(251, 241, 199)",
+      "tab_loading": "rgb(245, 75, 41)"
     }
   }
 }
