@@ -7,7 +7,7 @@
 A firefox theme based on [Gruvbox](https://github.com/morhetz/gruvbox "Gruvbox") color scheme.
 
 ### How to install
-- Official page: [Link](https://addons.mozilla.org/en-US/firefox/addon/gruvboxar/)
+- Official page: [Link](https://addons.mozilla.org/en-US/firefox/addon/gruvarc/)
 - Clone this repo
   ```
   git clone https://github.com/avronr/gruvboxar.git
