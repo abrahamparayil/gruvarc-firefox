@@ -10,7 +10,7 @@ A firefox theme based on [Gruvbox](https://github.com/morhetz/gruvbox "Gruvbox")
 - Official page: [Link](https://addons.mozilla.org/en-US/firefox/addon/gruvarc/)
 - Clone this repo
   ```
-  git clone https://github.com/avronr/gruvboxar.git
+  git clone https://github.com/abrahamparayil/gruvboxar.git
   ```
   Open the theme.xpi file with firefox.
 
